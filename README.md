@@ -9,7 +9,7 @@ While the [full kubernetes module](https://github.com/mastodon/terraform-ovh-k8s
 | Name | Version |
 |------|---------|
 | <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.0.0 |
-| <a name="requirement_ovh"></a> [ovh](#requirement\_ovh) | ~> 2.5.0 |
+| <a name="requirement_ovh"></a> [ovh](#requirement\_ovh) | ~> 2.25.0 |
 
 ## Providers
 
